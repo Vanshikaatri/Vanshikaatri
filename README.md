@@ -12,7 +12,8 @@ Around here you’ll find:
 
 If you're curious about data, enjoy solving problems, or just want to see what I’ve been building — feel free to explore!
 
-**Let’s learn, build, and grow together — one dataset at a time** 📈✨
+**Let’s learn, build, and grow together — one dataset at a time 📈✨**
+
 Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place! 🫶
 
 
