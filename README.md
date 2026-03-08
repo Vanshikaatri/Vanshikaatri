@@ -30,7 +30,7 @@ You bring the curiosity, I’ll bring the datasets 📊💻
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=white)
 
 ---
 #
